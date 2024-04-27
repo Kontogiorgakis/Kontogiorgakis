@@ -31,15 +31,15 @@
 </p>
 
 <p align="center">
- .
+ 
  <a href="https://www.linkedin.com/in/manos-kontogiorgakis-4b9328251/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="manos"/>
  </a>
-.
+
  <a href="https://www.instagram.com/manos.kont/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
-.
+
  <a href="https://www.facebook.com/manos.kodogiorgakis/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
